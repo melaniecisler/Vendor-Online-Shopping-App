@@ -1,0 +1,19 @@
+.list-group-item {
+    line-height: 2.5;
+}
+
+.imgFilter {
+    filter: brightness(0.8);
+}
+
+.navbar-inverse {
+    background-color: #121d40;
+}
+
+.navbar {
+    border-bottom: 3px solid red;
+  }
+
+  h1 .dash {
+      color: aqua;
+  }
