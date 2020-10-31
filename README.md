@@ -2,7 +2,7 @@
 This is an online shopping app
 
 ![](public/img/gif/women.PNG)
-![](image/FWAdventures.PNG)
+![](public/img/gif/homepage.PNG)
 
 ## Table of contents
 - [Description](#description)
