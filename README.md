@@ -1,6 +1,6 @@
 
-![](image/gif/women.png)
-![](image/gif/homepage.png)
+![](image/women.png)
+![](image/homepage.png)
 
 # Online-Shopping-App
 This is an online shopping app
